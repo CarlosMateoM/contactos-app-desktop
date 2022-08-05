@@ -1,0 +1,3 @@
+2022-08-01 16:37:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CONTACTOS" not found (this database is empty); SQL statement:
+SELECT * FROM contactos [42104-214]
