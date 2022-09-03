@@ -21,6 +21,5 @@
 
 
 ### Imagenes
-![dashboard](https://lh6.googleusercontent.com/NUC5WG21wPsID7HU07Poi0jGvNUZoDXNmVbCDeePLrT58-2q01TcojRBxp7qHTI8_-2JM-oyzwpNW0yNTrqD=w1366-h683)
+![dashboard](https://raw.githubusercontent.com/CarlosMateoM/contactos-app-desktop/main/executable/Screenshot_2022-08-04_23-49-09.png)
 
-![reports](https://lh6.googleusercontent.com/mqEMc4ilfS1II89EEjav0hIeoqG62AbfOkMfRIg1xqjE768awIwVCzlMYWpnMwEl8f8VD2iraqGQo9yim5cG=w1366-h683)
